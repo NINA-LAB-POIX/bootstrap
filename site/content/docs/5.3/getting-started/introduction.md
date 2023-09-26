@@ -1,7 +1,7 @@
 ---
 layout: docs
-title: Get started with Bootstrap
-description: Bootstrap is a powerful, feature-packed frontend toolkit. Build anything—from prototype to production—in minutes.
+title: THE PROPOSAL 
+description: The whole point of this statement is supposed to 
 group: getting-started
 aliases:
   - "/docs/5.3/getting-started/"
